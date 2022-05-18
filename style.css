@@ -46,20 +46,21 @@ header img {
 	letter-spacing: .5rem;
 	text-align: center;
 	font-size: 3.2rem;
-	font-weight: 200;
+	font-weight: 300;
 	text-transform: uppercase;
 	color: hsl(0, 36%, 70%);
 	line-height: 3.5rem;
 }
 .container .left h1 span {
 	color: hsl(0, 6%, 24%);
-	font-weight: 700;
+	font-weight: 400;
 }
 .container .left p {
 	max-width: 450px;
 	text-align: center;
 	color: hsl(0, 36%, 70%);
 	font-size: .9rem;
+	font-weight: 600;
 	line-height: 1.5rem;
 	margin: 20px auto 40px auto;
 }
